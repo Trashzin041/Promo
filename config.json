@@ -1,10 +1,10 @@
 {
     "prefix": "-",
     "token": process.env.TOKEN,
-	"channel": "ChannelID",
-	"owner": "ClientID",
+	"channel": "1035176874369888278",
+	"owner": "1012860965026545675",
 	"whitelist": [
-		"ClientID", 
+		"1012860965026545675", 
 		"ClientID"
 	]
 }
